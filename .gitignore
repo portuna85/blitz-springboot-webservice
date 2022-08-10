@@ -7,7 +7,6 @@ build/
 /test/
 application-oauth.properties
 application-real-db.properties
-application.properties
 note/deploy_1.sh
 schema.sql
 
